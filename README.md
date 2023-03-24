@@ -2,6 +2,4 @@
 
 Desenvolvimento do dinblu APP...
 
-## Getting Started
-
 
